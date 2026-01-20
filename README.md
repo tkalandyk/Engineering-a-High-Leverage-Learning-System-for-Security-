@@ -1,14 +1,4 @@
 # Engineering a High Leverage Learning System for Security+
-
-
----
-
-## ✅ What you should do instead
-
-**Remove the outer triple backticks** and paste the content directly into your `README.md`.
-
-Below is the **same content**, but this time it is **pure Markdown**, ready to paste directly into GitHub and render correctly.
-
 ---
 
 # 📘 Project: Designing a High-Leverage Security+ Learning System
