@@ -137,7 +137,7 @@ This approach directly maps to how value is created inside companies:
 
 Which leads to:
 - Increased responsibility  
-- Greater job security  
+- Better job security  
 - Higher long-term compensation  
 
 Companies don’t retain people who only follow instructions.  
