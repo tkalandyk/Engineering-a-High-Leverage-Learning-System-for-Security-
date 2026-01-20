@@ -1,3 +1,7 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 19, 2026, 08_51_59 PM" src="https://github.com/user-attachments/assets/a8c04804-cf5e-4af9-be44-cc63eb1e300c" />
+
+
 # Engineering a High Leverage Learning System for Security+
 ---
 
