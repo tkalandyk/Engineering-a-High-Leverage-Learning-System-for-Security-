@@ -3,9 +3,10 @@
 
 # 📘 Project: Designing a High-Leverage Security+ Learning System
 
-> **Insert Video Demo Here:**  
-> *(Replace the placeholder link below with your video URL — YouTube, Loom, Vimeo, etc.)*  
 > **🎥 Video:** [WATCH HERE](https://youtu.be/CggsKgLZRTs)
+
+> <img width="943" height="884" alt="image" src="https://github.com/user-attachments/assets/fa2cec06-56e0-4bb2-bdab-1aa7fb23a748" />
+
 
 ---
 
